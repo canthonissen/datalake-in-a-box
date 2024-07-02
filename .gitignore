@@ -1,0 +1,3 @@
+/docker/.minio-data
+/docker/.hive-metastore
+/docker/.spark-warehouse
