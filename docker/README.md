@@ -3,7 +3,7 @@ Consist of Docker & Docker Compose file to run the componenets in docker contain
 # Services
 * hive-metastore
 * spark-thrift
-* maria-db
+* postgresdb
 * minio
 # Starting the services
 * Change directory to [this](/docker) folder.
